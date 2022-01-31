@@ -1,0 +1,67 @@
+Entender e criar mapa mental
+Entender lógica
+
+
+coerência de raciocínio, de ideias
+
+lógica de programação significa apenas contextualizar a lógica 
+
+pensar como você pensa
+
+abstração é diminuir os passos até a solução
+
+Se questionar se é possível fazer uma abstração do meu mapa mental
+
+ALGORITMOS E PSEUDOCÓDIGOS
+
+Algoritmo é uma sequência de passos para resolver um problema
+
+Exemplo de algoritmo
+
+Início-dia
+ordem do que fez no dia, por exemplo para levantar da cama é necessário primeiro acordar.
+Fim do dia
+
+Pseudocódigo
+
+É uma forma genérica de escrever um algoritmo - como se fosse uma explicação para o passo a passo que será feito na programação.
+
+Pseudocódigo para resolver a questão dos pinguins no jogo: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Coloca pinguim maior e menor verde no gelo
+Atravessa o gelo
+Desembarca pinguim maior
+Atravessa o gelo
+Embarca pinguim menor vermelho
+Atravessa o gelo
+Desembarca pinguim menor verde
+Atravessa o gelo
+Embarca pinguim maior vermelho
+Atravessa o gelo
+Desembarca pinguim maior vermelho
+Atravessa o gelo
+Embarcar pinguim menor azul
+Atravessa o gelo
+Desembarca pinguim menor vermelho
+Atravessa o gelo
+Embarca pinguim maior azul
+Atravessa o gelo
+Desembarca pinguim maior azul
+Desembarca pinguim menor azul
+
+Fluxograma 
+É uma ferramenta utilizada para representar graficamente um algoritmo
+Ou um tipo de diagrama que pode ser entendido como uma representação esquemática de um processo.
+
+Variáveis e constantes
+
+Na programação, uma vairável é um objeto 
+
+Constante
+
+não altera durante o programa
+
+CONCATENAÇÃO
+
+É um termo usado em computação para designar a operação de unir o conteúdo de duas ou mais strings, podendo ser somente textos ou não.
+
